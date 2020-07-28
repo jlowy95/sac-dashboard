@@ -5,6 +5,8 @@ Authors: Thomas Bergamaschi, Josh Lowy, Kevin Scheller
 This is an avalanche danger analysis tool for the Tahoe Basin region.  Using cumulative data acquired from the Sierra Avalanche Center (non-profit updated by USDA forecasters) of avalanche reports, observations, and forecasts we built a dashboard for seasonal analysis of Tahoe avalanches.  The current tools in place for the public on the
 [SAC website](https://www.sierraavalanchecenter.org/) give insight to local/specific dangers present, but provide no context for seasonal observation or weather correlation.  The charts we've built provide greater context to the conditions present throughout a winter season and allow for direct comparison to reported weather/precipitation.
 
+## [Video Walkthrough](https://youtu.be/lHbNKe1klBw)
+
 ## Charts / Tools
 - **Incident/Observation Map:**
   This map displays all reported observations and incidents of avalanches during the selected season.  The map is interactive and can be explored for specific areas or data.  Each map feature has a link back to the full observation/incident report.
