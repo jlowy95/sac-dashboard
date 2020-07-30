@@ -14,4 +14,4 @@ This is an avalanche danger analysis tool for the Tahoe Basin region.  Using cum
   This chart is intended to correlate local precipitation and snowfall data with details from reported avalanche incidents and forecasts.  All charts are vertically aligned by date.  By following peaks and troughs of precipitation from the top portion downward, one can read into the changes/appearance of certain avalanche dangers and factors.
 
 ## Deployment
-  Our cloud hosted database is password protected to avoid overdraw and limit requests, so this project is not available for local deployment, but can be viewed at [non-existent website .com]()
+  Our cloud hosted database is password protected to avoid overdraw and limit requests, so this project is not available for local deployment, but can be viewed through the video walkthrough above.
